@@ -35,7 +35,7 @@
 <div align="center">
   
   <a href="mailto:a01081930429@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:choiheeyoung10@gmail.com"/></a>
-  <a href="https://www.instagram.com/seon_04.02"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/youn_nce"/></a>
+  <a href="https://www.instagram.com/seon_04.02"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/seon_04.02"/></a>
 </div>
 <div align="center">
 
